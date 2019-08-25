@@ -39,11 +39,6 @@ public class FileTools {
 		File zipFile = new File(zipFilePath);
 		BufferedReader bufferedReader = new BufferedReader(new FileReader(sourceFile));
 		InputStream inputStream;
-//		while() 
-//		{
-//			
-//		}
-		
 		return false;
 	}
 	
