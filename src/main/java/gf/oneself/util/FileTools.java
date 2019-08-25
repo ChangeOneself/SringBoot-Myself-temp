@@ -26,7 +26,7 @@ public class FileTools {
 			file.createNewFile();
 			return file;
 		} else {
-			LOGGER.info("This is a directory.");
+//			LOGGER.info("This is a directory.");
 			file.mkdirs();
 			return file;
 		}
